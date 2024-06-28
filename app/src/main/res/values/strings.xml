@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">AttendanceDataBase</string>
+    <string name="Name">Name</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Teacher_View">Teacher View</string>
+    <string name="Nothing">----</string>
+    <!-- Login text -->
+    <string name="login_as_text">Login As:</string>
+    <!-- Button text -->
+    <string name="teacher_button_text">Teacher</string>
+    <string name="student_button_text">Student</string>
+    <string name="username">Username</string>
+
+    <string name="Select_Class_prompt">Select Class</string>
+    <string name="Select_Div_prompt">Select Div</string>
+    <string name="Select_Subject_prompt">Select Subject</string>
+
+    <string-array name="spinnerClass">
+        <item>FYCS</item>
+        <item>SYCS</item>
+        <item>TYCS</item>
+    </string-array>
+
+    <string-array name="spinnerDiv">
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="spinnerSubject">
+        <item>PYTHON</item>
+        <item>COD</item>
+        <item>STATISTIC</item>
+        <item>LINUX</item>
+        <item>CPP</item>
+        <item>HTML</item>
+        <item>CALCULUS</item>
+        <item>FOA</item>
+        <item>ADV_JAVA</item>
+        <item>CN</item>
+        <item>SE</item>
+        <item>LA</item>
+        <item>DOTNET</item>
+        <item>ANDROID</item>
+        <item>DATA_SCIENCE</item>
+        <item>CLOUD_COMPUT</item>
+        <item>INFO_RETRIEVAL</item>
+        <item>ETHICAL_HACKING</item>
+        <item>CYBER_FORENSIC</item>
+    </string-array>
+
+    <string-array name="spinnerMonth">
+        <item>Months</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>
